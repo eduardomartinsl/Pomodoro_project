@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_historico"
+        android:icon="@drawable/ic_open_book_black"
+        android:title="@string/title_historico" />
+
+    <item
+        android:id="@+id/navigation_pomodoro"
+        android:icon="@drawable/ic_fire_black"
+        android:title="@string/title_pomodoro" />
+
+    <item
+        android:id="@+id/navigation_projetos"
+        android:icon="@drawable/ic_gear_black"
+        android:title="@string/title_projetos" />
+
+    <item
+        android:id="@+id/navigation_configuracoes"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/configuracoes_text"/>
+</menu>
